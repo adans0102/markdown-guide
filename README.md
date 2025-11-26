@@ -22,7 +22,7 @@ Markdown es un lenguaje de marcado ligero diseñado para ser fácil de leer y es
 - Otro elemento
 
 
-## Enlaces: Se pueden agregar enlaces con la sintaxis "[texto](URL).
+## Enlaces: Se pueden agregar enlaces con la sintaxis "[texto](enlace).
 [Texto del enlace](https://url.com)
 
 
@@ -34,7 +34,7 @@ Markdown es un lenguaje de marcado ligero diseñado para ser fácil de leer y es
 `código en línea`
 
 
-### Encabezados: Se usan almohadillas (#) para los encabezados. Se pueden crear encabezados de varios niveles usando # (hasta 6 niveles)
+## Encabezados: Se usan almohadillas (#) para los encabezados. Se pueden crear encabezados de varios niveles usando # (hasta 6 niveles)
 # Encabezado nivel 1
 ## Encabezado nivel 2
 ### Encabezado nivel 3
