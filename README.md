@@ -22,7 +22,9 @@ Markdown es un lenguaje de marcado ligero diseñado para ser fácil de leer y es
 [Texto del enlace](https://url.com)
 
 ## Imagenes
-![Foto de Adolfo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmx.pinterest.com%2Frazuramartinez10%2Fcara-de-chango%2F&psig=AOvVaw1cNYAphO27wDKVXDn53ip6&ust=1764208390834000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCVw8bajpEDFQAAAAAdAAAAABAE)
+![Foto de Adolfo](![foto](https://i.pinimg.com/236x/5f/2d/3a/5f2d3a86b3e3b551a536cdc67c04982c.jpg)
+
+
 
 ## Código en línea: Usa tildes invertidas para el código en línea
 `código en línea`
