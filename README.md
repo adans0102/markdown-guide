@@ -5,47 +5,46 @@ Markdown es un lenguaje de marcado ligero diseñado para ser fácil de leer y es
 
 ## Uso básico (sintaxis)
 
-## Negritas
+## Negritas:
  *itálica* o _itálica_
 **negrita** o __negrita__
 ***negrita e itálica***
 
-## Listas Ordenadas
+## Listas Ordenadas:
 1. Primer elemento
 2. Segundo elemento
 
-## Listas No Ordenadas
+## Listas No Ordenadas:
 - Elemento
 - Otro elemento
 
-## Enlaces
+## Enlaces:
 [Texto del enlace](https://url.com)
 
-## Imagenes
+## Imagenes:
 ![Foto de Adolfo](https://i.pinimg.com/236x/5f/2d/3a/5f2d3a86b3e3b551a536cdc67c04982c.jpg)
 
 
 
-## Código en línea: Usa tildes invertidas para el código en línea
+## Código en línea: Usa tildes invertidas para el código en línea:
 `código en línea`
 
-### Encabezados
-
+### Encabezados:
 # Encabezado nivel 1
 ## Encabezado nivel 2
 ### Encabezado nivel 3
 
-## Citas
+## Citas:
 > Esto es una cita
 >> Citas anidadas
 
-## Lineas horizontales
+## Lineas horizontales:
 ---
 
 ## Usa una sola comilla invertida:
 Usa el comando `git status` para ver el estado.
 
-## Tablas más avanzadas
+## Tablas más avanzadas:
 | Izquierda | Centrado | Derecha |
 |:--------- |:-------: | ------: |
 | a         | b        | c       |
