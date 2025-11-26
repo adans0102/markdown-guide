@@ -41,3 +41,12 @@ Markdown es un lenguaje de marcado ligero diseñado para ser fácil de leer y es
 
 ## Lineas horizontales
 ---
+
+## Usa una sola comilla invertida:
+Usa el comando `git status` para ver el estado.
+
+## Tablas más avanzadas
+| Izquierda | Centrado | Derecha |
+|:--------- |:-------: | ------: |
+| a         | b        | c       |
+| texto     | 123      | 45.6    |
