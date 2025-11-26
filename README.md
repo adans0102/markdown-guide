@@ -22,7 +22,7 @@ Markdown es un lenguaje de marcado ligero diseñado para ser fácil de leer y es
 - Otro elemento
 
 
-## Enlaces: Se pueden agregar enlaces con la sintaxis "[texto](enlace).
+## Enlaces: Se pueden agregar enlaces con la sintaxis [texto](htpps...)
 [Texto del enlace](https://url.com)
 
 
