@@ -22,7 +22,7 @@ Markdown es un lenguaje de marcado ligero diseñado para ser fácil de leer y es
 [Texto del enlace](https://url.com)
 
 ## Imagenes
-![Foto de Adolfo](![foto](https://i.pinimg.com/236x/5f/2d/3a/5f2d3a86b3e3b551a536cdc67c04982c.jpg)
+![Foto de Adolfo](https://i.pinimg.com/236x/5f/2d/3a/5f2d3a86b3e3b551a536cdc67c04982c.jpg)
 
 
 
